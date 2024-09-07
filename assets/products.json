@@ -1,0 +1,45 @@
+[
+  {
+    "id": "1",
+    "name": "Smartphone",
+    "image": "https://images.unsplash.com/photo-1632905188195-fcef8518877e?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The Smartphone XYZ Pro is a state-of-the-art device designed for those who demand both power and elegance. Featuring a sleek, modern design with a 6.5-inch Full HD+ AMOLED display, it offers brilliant color accuracy and sharpness, ensuring an immersive visual experience whether you’re watching videos, playing games, or browsing the web.",
+    "price": 75000.00
+  },
+  {
+    "id": "2",
+    "name": "Laptop",
+    "image": "https://images.pexels.com/photos/129208/pexels-photo-129208.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "The Laptop UltraBook Pro is the epitome of modern computing, offering exceptional performance and portability in a sleek, ultra-thin design. With its 14-inch 4K UHD display, you’ll experience vivid colors and sharp details, making it perfect for everything from professional work to multimedia entertainment. .",
+    "price": 49999.99
+  },
+  {
+    "id": "3",
+    "name": "Shoes",
+    "image": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "The EliteStride Performance Sneakers are engineered for those who demand both style and functionality. With a sleek, modern design and premium materials, these sneakers offer superior comfort and durability, making them perfect for everyday wear, sports, or casual outings..",
+    "price": 2000.00
+  },
+  {
+    "id": "4",
+    "name": "Shoes",
+    "image": "https://images.pexels.com/photos/19090/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Step up your game with the UrbanFlex City Sneakers, where urban sophistication meets unbeatable comfort. Designed for the modern lifestyle, these sneakers are the perfect blend of fashion and function, ready to take you from the streets to the gym with ease.",
+    "price": 1500.00
+  },
+  {
+    "id": "5",
+    "name": "Smartphone",
+    "image": "https://images.pexels.com/photos/454699/pexels-photo-454699.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "The Smartphone XYZ Pro is a state-of-the-art device designed for those who demand both power and elegance. .",
+    "price": 40000.00
+  },
+  {
+    "id": "6",
+    "name": "Bags",
+    "image": "https://images.pexels.com/photos/1936848/pexels-photo-1936848.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Elevate your style and functionality with the VersaCarry Leather Backpack, a perfect blend of sophistication and practicality. Designed for professionals, students, and travelers alike, this backpack is crafted from premium full-grain leather, offering a timeless look and exceptional durability.",
+    "price": 15000.00
+  }
+
+]
